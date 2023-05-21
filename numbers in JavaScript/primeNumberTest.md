@@ -1,0 +1,2 @@
+- Primality Test
+    - A primality Test can be done by iterating from 2 to n, checking whether modulus division(remainder) is equal to zero.
